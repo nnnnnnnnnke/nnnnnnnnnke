@@ -12,9 +12,9 @@
 
 ## 🙋 About me / 自己紹介
 
-ネットワーク好きの大学院生です。低レイヤのソフトウェアルータ自作から、現場でのイベントWi-Fi構築・運用まで、スタック丸ごと触るのが好き。全国のネットワーク系イベントにNOC・スタッフとして出没しています。
+ネットワーク好きの大学院生です。現場でのイベントWi-Fi構築・運用が好きで、全国のネットワーク系イベントにNOC・スタッフとして出没しています。
 
-A grad student who loves networks — from building a software router from scratch to crimping cables and running event Wi-Fi on-site. You'll find me at network community events all over Japan, usually behind the NOC desk.
+A grad student who loves networks — crimping cables and running event Wi-Fi on-site. You'll find me at network community events all over Japan, usually behind the NOC desk.
 
 - 🔭 **研究 / Research** — eスポーツ大会の拠点間遅延を均一化する動的遅延補正システム / a dynamic latency-compensation system that equalizes inter-site delay for esports tournaments
 - 🛠️ **いま作ってるもの / Currently building** — DPDK製ソフトウェアルータ、コンソール自動投入ツール、macOSアプリ / a DPDK-based router, console automation tools, and macOS apps
